@@ -1,4 +1,4 @@
-# matirial_app_test
+# material_app_test
 
 A new Flutter project.
 
